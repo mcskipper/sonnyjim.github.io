@@ -1,0 +1,35 @@
+body{
+    	padding-top: 70px;
+		padding-left: 40px;
+		padding-right: 40px;
+    }
+	
+a 
+	{
+	  text-decoration: none	
+	}
+
+h1
+	{
+      text-align: center;
+	}
+
+h4
+	{
+       text-align: left;
+	}
+
+	
+	
+.main-content img {
+   float: left;
+   padding: 5px 10px 10px 5px;
+}
+
+	img {
+  display: block;
+  max-width:300px;
+  max-height:300px;
+  width: auto;
+  height: auto;
+	}
